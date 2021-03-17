@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa424e2-af33-4657-aa25-6e96ea9788b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Practical 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practical 2/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2fa424e2-af33-4657-aa25-6e96ea9788b7" name="Default Changelist" comment="intial">
+      <change beforePath="$PROJECT_DIR$/l.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -19,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,7 +42,16 @@
       <option name="presentableId" value="Default" />
       <updated>1615958243618</updated>
       <workItem from="1615958244769" duration="6000" />
+      <workItem from="1615958295843" duration="226000" />
     </task>
+    <task id="LOCAL-00001" summary="intial">
+      <created>1615958472875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615958472875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -50,5 +67,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial" />
   </component>
 </project>
