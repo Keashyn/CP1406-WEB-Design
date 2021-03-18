@@ -1,1 +1,1 @@
-# CP1406-WEB-Design
+# CP1406-WEB-Design-Practicals
