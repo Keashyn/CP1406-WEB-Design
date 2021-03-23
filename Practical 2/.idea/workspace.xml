@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79bcab43-e724-486d-bba4-253db6e65d6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/CSS Examples/External.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS Examples/classSelector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS Examples/inline1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSS Examples/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/Apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/Astrotxt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/Cascading Style Sheet Exercise.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/Chemtxt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/Draft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/MWSLogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/IntroCSS/m20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTML 1/HTML 2 - Lab Work.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTML 1/email.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTML 1/fruits.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTML 1/home.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTML 1/link.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTML exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/dolphin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/jigsaw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/kilroy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/seahorses.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/~$ML exercise.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practical 4/l.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practical 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practical 7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,17 +45,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1pq9CC14GuaFDsEVdU1VHXqZKV3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,6 +78,7 @@
       <workItem from="1615899625286" duration="5000" />
       <workItem from="1615958164559" duration="6000" />
       <workItem from="1615958176481" duration="30000" />
+      <workItem from="1616483795659" duration="2130000" />
     </task>
     <servers />
   </component>
@@ -61,5 +96,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
