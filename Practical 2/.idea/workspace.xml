@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79bcab43-e724-486d-bba4-253db6e65d6f" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/htmlcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/htmlcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/~$ML exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/IntroCSS/~$scading Style Sheet Exercise.doc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <workItem from="1615899625286" duration="5000" />
       <workItem from="1615958164559" duration="6000" />
       <workItem from="1615958176481" duration="30000" />
-      <workItem from="1616483795659" duration="4968000" />
+      <workItem from="1616483795659" duration="5415000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1616487516408</created>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616487916496</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1616490549541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616490549541</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
