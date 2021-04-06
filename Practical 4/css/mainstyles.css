@@ -1,0 +1,33 @@
+body    {background-color: cadetblue;
+    color: white;
+    margin: 20px;}
+
+h1  {color: white;
+    text-align: center;
+    font-size: 4em;
+    border: 5px solid red;
+    padding: 20px;
+    margin-bottom: 0px;}
+
+h2  {font-size: 2em;}
+
+nav ul {text-align: center;
+    border: red solid; }
+
+nav li {display: inline;
+    margin: 30px;}
+
+nav a  {font-size: 1.5em;
+    color: bisque;}
+
+footer  {clear: both;
+;}
+
+.Announcements  {text-align: center;
+    margin-top: 30px;}
+
+.Announcements li   {margin: 10px;}
+
+#group_training {float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;}
