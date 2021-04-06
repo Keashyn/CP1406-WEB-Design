@@ -4,21 +4,7 @@
     <list default="true" id="a7f1f7dc-db6a-412c-8eaf-cbd20e6922bb" name="Default Changelist" comment="commit">
       <change afterPath="$PROJECT_DIR$/Practical 4/Practical 4.docx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practical 4/TrainingZone.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/images/computer_training.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/images/group_training.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/images/meeting_room.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/images/team_photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/images/training_sign.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/images/whiteboard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/pages/artical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/pages/history.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/pages/plan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 4/pages/staff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_3_21,_5_56_pm_[Default_Changelist]/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 4/css/mainstyles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_3_21,_5_56_pm_[Default_Changelist]/~$scading Style Sheet Exercise.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_3_21__5_56_pm__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical 4/pages/plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 4/pages/plan.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +67,7 @@
       <workItem from="1616500307328" duration="113000" />
       <workItem from="1617091961085" duration="161000" />
       <workItem from="1617092161914" duration="1698000" />
-      <workItem from="1617693977146" duration="517000" />
+      <workItem from="1617693977146" duration="830000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1616493374804</created>
@@ -132,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617093759805</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1617694748134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617694748134</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1617694943870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617694943870</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
