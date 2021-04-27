@@ -6,7 +6,7 @@
 <style type="text/css">
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #42413C;
+	background-color: #debc12;
 	margin: 0;
 	padding: 0;
 	color: #000;
@@ -26,11 +26,11 @@ a img { /* this selector removes the default blue border displayed in some brows
 }
 /* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
 a:link {
-	color: #42413C;
+	color: #070700;
 	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
 }
 a:visited {
-	color: #6E6C64;
+	color: #5d74e5;
 	text-decoration: underline;
 }
 a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
@@ -44,7 +44,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 }
 /* ~~ The header is not given a width. It will extend the full width of your layout. ~~ */
 header {
-	background-color: #ADB96E;
+	background-color: #b76eb9;
 }
 /* ~~ These are the columns for the layout. ~~ 
 
@@ -60,7 +60,7 @@ header {
 .sidebar1 {
 	float: left;
 	width: 180px;
-	background-color: #EADCAE;
+	background-color: #02efdb;
 	padding-bottom: 10px;
 }
 .content {
@@ -71,7 +71,7 @@ header {
 aside {
 	float: left;
 	width: 180px;
-	background-color: #EADCAE;
+	background-color: #ffc70f;
 	padding: 10px 0;
 }
 
@@ -83,28 +83,28 @@ aside {
 /* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
 nav ul{
 	list-style: none; /* this removes the list marker */
-	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
+	border-top: 1px solid #d73838; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
 	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
 }
 nav li {
-	border-bottom: 1px solid #666; /* this creates the button separation */
+	border-bottom: 1px solid #e03838; /* this creates the button separation */
 }
 nav a, nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
 	padding: 5px 5px 5px 15px;
 	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
 	width: 160px;  /*this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
 	text-decoration: none;
-	background-color: #C6D580;
+	background-color: #80c1d5;
 }
 nav a:hover, nav a:active, nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
-	background-color: #ADB96E;
+	background-color: #a96eb9;
 	color: #FFF;
 }
 
 /* ~~ The footer ~~ */
 footer {
 	padding: 10px 0;
-	background-color: #CCC49F;
+	background-color: #9fc5cc;
 	position: relative;/* this gives IE6 hasLayout to properly clear */
 	clear: both; /* this clear property forces the .container to understand where the columns end and contain them */
 }
@@ -145,6 +145,7 @@ header, section, footer, aside, article, figure {
       <li><a href="#">Link two</a></li>
       <li><a href="#">Link three</a></li>
       <li><a href="#">Link four</a></li>
+      <li><a href="#">Link five</a></li>
     </ul>
 </nav>
     <aside>
