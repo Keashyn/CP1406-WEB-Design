@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a7f1f7dc-db6a-412c-8eaf-cbd20e6922bb" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practical 6/prac05-CSSLayoutDWtemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 6/prac05-CSSLayoutDWtemplate.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <workItem from="1619502156117" duration="227000" />
       <workItem from="1619502541024" duration="252000" />
       <workItem from="1619510955335" duration="243000" />
-      <workItem from="1619511489293" duration="558000" />
+      <workItem from="1619511489293" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1616493374804</created>
@@ -211,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619510987830</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit">
+      <created>1619512498485</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1619512498485</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit">
+      <created>1619512782918</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1619512782918</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
