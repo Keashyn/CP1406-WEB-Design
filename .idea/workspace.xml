@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f1f7dc-db6a-412c-8eaf-cbd20e6922bb" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 7/Travel_reservation form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 7/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +93,8 @@
       <workItem from="1619510955335" duration="243000" />
       <workItem from="1619511489293" duration="979000" />
       <workItem from="1619576757689" duration="22000" />
-      <workItem from="1620116281657" duration="3081000" />
+      <workItem from="1620116281657" duration="3379000" />
+      <workItem from="1620121640419" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1616493374804</created>
@@ -245,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619514040761</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit">
+      <created>1620121622144</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620121622144</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
