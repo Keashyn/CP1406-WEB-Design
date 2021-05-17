@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f1f7dc-db6a-412c-8eaf-cbd20e6922bb" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Practical 8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 9/Responsive-Tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 9/table_styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practical 8/first-javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 8/first-javascript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,9 @@
       <workItem from="1619576757689" duration="22000" />
       <workItem from="1620116281657" duration="3379000" />
       <workItem from="1620121640419" duration="1000" />
-      <workItem from="1620721166021" duration="1127000" />
+      <workItem from="1620721166021" duration="1150000" />
+      <workItem from="1621051747140" duration="625000" />
+      <workItem from="1621242415056" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1616493374804</created>
@@ -261,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620721287802</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="commit">
+      <created>1620722376800</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1620722376800</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
